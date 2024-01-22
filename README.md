@@ -1,6 +1,6 @@
 HTML+CSS Tutorial
 =================
-##Teahing Module for Secondary Schools at Perlis
+##Teaching Module for Secondary Schools at Perlis
 
 ### Who
 
